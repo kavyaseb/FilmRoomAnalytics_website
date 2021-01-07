@@ -1,0 +1,25 @@
+/* Navbar style start */
+.brand-logo {
+  margin-left: 2%;
+}
+/* Navbar style end */
+/* Body container style start */
+.body_container {
+  border: 3px solid red;
+  height: 125vh;
+  margin: 5% 10% 10%;
+}
+/* Body container style end */
+
+/* Card style start */
+.card {
+  height: 20%;
+}
+/* Card style end */
+
+/* Card style start */
+.col s6 margin left {
+  margin: .5rem 0 1rem 0;
+}
+/* Card style end */
+
